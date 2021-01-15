@@ -1,2 +1,2 @@
 # ExploringFXData
-Small exerciseexploring foreign exchange rates while learning about data analysis and python
+Small exercise exploring foreign exchange rates while learning about data analysis and python
